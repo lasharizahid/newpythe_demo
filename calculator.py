@@ -4,3 +4,5 @@ print("addition is ", num1+num2)
 print("subtraction  is ", num1-num2)
 print("Multiplication ", num1*num2)
 print("devision is ", num1/num2)
+
+print("this is simple calculation ")
